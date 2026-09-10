@@ -1,14 +1,20 @@
-# Maintainer roster for [YOUR PROJECT NAME]
+# Maintainer roster for SDC
 # Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
 
 maintainers:
-  - project_id: "my-project"    # Must match slug in project.yaml
-    org: "my-org"               # GitHub organization (optional)
+  - project_id: "sdc"    # Must match slug in project.yaml
+    org: "sdcio"               # GitHub organization (optional)
     teams:
       - name: "maintainers"
         members:
-          - github-handle-1
-          - github-handle-2
+          - henderiw
+          - steiler
+          - hansthienpondt
+          - alexandernorth
+          - karimra
+          - severindellsperger
+          - faebr
+
       # Additional teams are optional
       # - name: "committers"
       #   members:
